@@ -102,11 +102,9 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 ## Contact Us
 For any inquiries, please reach out to us at:
 
-Discord: [Click here](https://discord.gg/Dva4u4wc)
+jaredfromsubwayeth@icloud.com
 
 <div align="center">
-
-💰💰💰 Make money with MevBot 💰💰💰
 
 </div>
 
