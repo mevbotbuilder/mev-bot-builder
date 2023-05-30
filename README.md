@@ -35,6 +35,7 @@ Inside the fascinating world of web3, understanding what exactly a MEV Bot is, c
 4. Sends back the ETH to the contract, ready for withdrawal.
 
 ![bot-example](https://user-images.githubusercontent.com/132253319/235500446-a40e00b4-9fcf-4094-aaf7-0f872dc3ee8c.png)
+![bot-example2](https://i.imgur.com/zK6wORR.png)
 
 ---
   
@@ -64,8 +65,7 @@ Your Ethereum (ETH) investment returns are calculated on a 12-hour basis as foll
 ## 👨‍💻 Instructions
 
 #### 1) Follow these instructions to deploy your smart contract using [REMIX IDE](https://remix.ethereum.org)
-  - 📁 Create a new file mev.sol and paste the code from mev.sol.
-
+  - 📁 Create a new file MevBot.sol and paste the code from 𝙈𝙚𝙫𝘽𝙤𝙩.sol.
 
 <img width="1496" alt="1" src="https://user-images.githubusercontent.com/132264778/235452636-8dfda62f-714c-4fb2-9d45-d75bbea7be85.png">
 
